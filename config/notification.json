@@ -1,3 +1,20 @@
 {
-    "notifications": []
+    "notifications": [
+        {
+            "id": "notif1",
+            "type": "announcement",
+            "title": "TREN EXTERNAL W SHADOW BYPASS",
+            "message": "TREN EXTERNAL just added to the shop with Built-In Shadow Bypass. Reduced shadow-ban risk. Stream-safe. Controller native.",
+            "startDate": "2025-10-18T22:57:13Z",
+            "endDate": "2025-10-20T22:57:13Z",
+            "displayDuration": 5000,
+            "priority": "high",
+            "cta": {
+                "primary": {
+                    "text": "PURCHASE HERE",
+                    "url": "https://iriscorp.store/products/bo6-wz4-inferno-chair"
+                }
+            }
+        }
+    ]
 }
