@@ -16,7 +16,7 @@
             "action": "#8D00FF"
         },
         "background": {
-            "main": "#343A40",
+            "main": "#000000",
             "overlay": "rgba(10,10,10,0.5)",
             "custom-image": "",
             "logoImage": "https://api.cloud.anewvision.fr/280388361904979970/m/mollylogo.png",
@@ -47,7 +47,7 @@
             "appTitle": "Molly's HUB"
         },
         "fixed": {
-            "titleBar": "#343A40"
+            "titleBar": "#000000"
         }
     }
 }
