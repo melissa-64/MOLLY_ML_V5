@@ -16,7 +16,7 @@
             "action": "#4F0394"
         },
         "background": {
-            "main": "#050505",
+            "main": "#49068A",
             "overlay": "rgba(10,10,10,0.5)",
             "custom-image": "",
             "logoImage": "https://api.cloud.anewvision.fr/280388361904979970/m/mollylogo.png",
@@ -45,6 +45,9 @@
             "defaultListView": false,
             "defaultLanguage": "en",
             "appTitle": "IRIS CORP"
+        },
+        "fixed": {
+            "titleBar": "#49068A"
         }
     }
 }
