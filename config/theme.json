@@ -1,19 +1,19 @@
 {
     "theme": {
         "core": {
-            "primary": "#FF0000",
+            "primary": "#4F0394",
             "secondary": "#b30000",
             "border": "#FF0000",
             "divider": "#252525",
-            "scrollbar": "#FFFFFF"
+            "scrollbar": "#4F0394"
         },
         "text": {
             "primary": "#FFFFFF",
             "secondary": "#d9d9d9"
         },
         "button": {
-            "category": "#FF0000",
-            "action": "#FF0000"
+            "category": "#4F0394",
+            "action": "#4F0394"
         },
         "background": {
             "main": "#050505",
