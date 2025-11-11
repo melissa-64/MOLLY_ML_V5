@@ -727,11 +727,11 @@
             "categoryId": "valorant",
             "downloadUrl": "https://dashboard.rip/register",
             "status": "online",
-            "imageUrl": "",
-            "productUrl": "https://iriscorp.store/products/valorant-unlocker-bypass",
+            "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/m/valounlocker.jpg",
+            "productUrl": "https://mollys.cc/products/valorant-unlocker-bypass",
             "instructions": "",
             "contentType": "web_downloadable",
-            "version": "1.0",
+            "version": "1.1",
             "systemRequirement": {
                 "enabled": false,
                 "requirements": []
