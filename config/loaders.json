@@ -464,65 +464,6 @@
             }
         },
         {
-            "id": "UA",
-            "name": "BO6 UNLOCK ALL",
-            "categoryId": "bo6",
-            "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/embed/BO6 UNLOCK.jpg",
-            "downloadUrl": "https://api.cloud.anewvision.fr/280388361904979970/loader/UNLOCKALL.exe",
-            "status": "custom",
-            "systemRequirement": {
-                "enabled": true,
-                "requirements": [
-                    {
-                        "key": "DriverBlocklist",
-                        "expectedState": false,
-                        "fixable": true,
-                        "tutorialLink": "https://iris-corporation.gitbook.io/guide/choose-your-language/undefined/vulnerable-drivers"
-                    },
-                    {
-                        "key": "HyperV",
-                        "expectedState": false,
-                        "fixable": true,
-                        "tutorialLink": "https://iris-corporation.gitbook.io/guide/choose-your-language/undefined/hyper-v"
-                    },
-                    {
-                        "key": "MemoryIntegrity",
-                        "expectedState": false,
-                        "fixable": true
-                    },
-                    {
-                        "key": "RiotVanguard",
-                        "expectedState": false,
-                        "fixable": true,
-                        "tutorialLink": "https://iris-corporation.gitbook.io/guide/choose-your-language/undefined/anti-cheat"
-                    },
-                    {
-                        "key": "SecureBoot",
-                        "expectedState": false,
-                        "fixable": false,
-                        "tutorialLink": ""
-                    },
-                    {
-                        "key": "Virtualization",
-                        "expectedState": true,
-                        "fixable": false,
-                        "tutorialLink": ""
-                    },
-                    {
-                        "key": "Windows11_24H2",
-                        "expectedState": false,
-                        "fixable": true,
-                        "tutorialLink": "https://iris-corporation.gitbook.io/guide/choose-your-language/undefined/i-am-windows-11"
-                    },
-                    {
-                        "key": "WindowsDefender",
-                        "expectedState": false,
-                        "fixable": true
-                    }
-                ]
-            }
-        },
-        {
             "id": "ftn-act-external-chair",
             "name": "FTN ACT EXTERNAL CHAIR",
             "categoryId": "fortnite",
