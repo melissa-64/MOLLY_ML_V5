@@ -582,20 +582,6 @@
             }
         },
         {
-            "id": "mw2019-dt-external-chair",
-            "name": "MW2019 DT EXTERNAL CHAIR",
-            "categoryId": "mw19",
-            "downloadUrl": "https://api.cloud.anewvision.fr/280388361904979970/loader/MW2019_EXT.exe",
-            "status": "online",
-            "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/embed/mw2019 EXT.jpg",
-            "productUrl": "https://iriscorp.store/products/mw2019-dt-external-chair",
-            "instructions": "",
-            "systemRequirement": {
-                "enabled": false,
-                "requirements": []
-            }
-        },
-        {
             "id": "mwiii-zenith-internal",
             "name": "MWIII ZENITH INTERNAL",
             "categoryId": "mw3",
