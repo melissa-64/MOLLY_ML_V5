@@ -236,15 +236,6 @@
             }
         },
         {
-            "id": "PC OPTIMIZER",
-            "name": "IRIS PC OPTIMIZER",
-            "categoryId": "others",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/pcopti.png",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/IRISOptimizerSetup.exe",
-            "status": "online",
-            "productUrl": "https://iriscorp.mysellauth.com/product/pc-opti"
-        },
-        {
             "id": "BO6 ZEROAIM EXTERNAL",
             "name": "BO6 ZEROAIM EXTERNAL",
             "categoryId": "bo6",
