@@ -547,12 +547,12 @@
         },
         {
             "id": "bf6-external-chair",
-            "name": "BF6 EXTERNAL CHAIR",
+            "name": "BF6 PHANTOM",
             "categoryId": "bf",
             "downloadUrl": "https://api.cloud.anewvision.fr/280388361904979970/loader/bf6.exe",
             "status": "online",
-            "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/embed/bf6.jpg",
-            "productUrl": "https://iriscorp.store/products/battlefield-6-5-1-2042-external-chair",
+            "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/m/phantom.jpg",
+            "productUrl": "https://mollys.cc/products/battlefield-6-5-1-2042-external-chair",
             "instructions": "",
             "systemRequirement": {
                 "enabled": false,
