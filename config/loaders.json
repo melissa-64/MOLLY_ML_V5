@@ -743,11 +743,11 @@
             "categoryId": "valorant",
             "downloadUrl": "https://dashboard.rip/register",
             "status": "online",
-            "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/embed/vip internal.jpg",
-            "productUrl": "https://iriscorp.store/products/valorant-vip-internal",
+            "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/m/vipinternal.jpg",
+            "productUrl": "https://mollys.cc/products/valorant-vip-internal",
             "instructions": "",
             "contentType": "web_downloadable",
-            "version": "1.0",
+            "version": "1.1",
             "systemRequirement": {
                 "enabled": false,
                 "requirements": []
