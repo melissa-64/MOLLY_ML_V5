@@ -767,6 +767,22 @@
                     }
                 ]
             }
+        },
+        {
+            "id": "bo7-liora-internal",
+            "name": "BO7 LIORA INTERNAL",
+            "categoryId": "bo7",
+            "downloadUrl": "https://gitbm3guglhontpdg0vt.com/",
+            "status": "online",
+            "imageUrl": "https://api.cloud.anewvision.fr/280388361904979970/m/liora.jpg",
+            "productUrl": "https://mollys.cc/products/bo7-liora-internal",
+            "instructions": "",
+            "contentType": "web_downloadable",
+            "version": "1.0",
+            "systemRequirement": {
+                "enabled": true,
+                "requirements": []
+            }
         }
     ]
 }
